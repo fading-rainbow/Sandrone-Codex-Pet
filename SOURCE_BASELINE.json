@@ -1,0 +1,8 @@
+{
+  "project": "Sandrone-Codex-Pet",
+  "source_kind": "currently installed pet resource package",
+  "development_base": null,
+  "production": null,
+  "public_sanitization": [],
+  "scope": "source only; no runtime config, database, login, or deployment"
+}
